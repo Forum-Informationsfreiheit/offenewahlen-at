@@ -1,8 +1,8 @@
-# Offene Wahlen Österreich 
+# Offene Wahlen Österreich Projekt Repository
 
-Hier findest du alle Ressourcen zum Projekt Offene Wahlen Österreich ([offenewahlen.at](http://offenewahlen.at/ressourcen)) zu finden. Diese wurden auf zwei verschiedene Arten aufgeteilt: Wiki-Seiten hier drinnen und eigene GitHub Repositories für die einzelnene Projekte. 
+Von hier aus findest du alle Ressourcen zum Projekt Offene Wahlen Österreich ([offenewahlen.at](https://offenewahlen.at)). Diese wurden auf zwei verschiedene Quellen aufgeteilt: Wiki-Seiten hier drinnen und eigene GitHub Repositories für die einzelnene Projekte. 
 
-**Die Wiki-Seiten:**
+**OffeneWahlen-AT Wiki**
 - [Wahlen](https://github.com/OKFNat/offenewahlen-at/wiki/Wahlen)
 - [Wahlrecht](https://github.com/OKFNat/offenewahlen-at/wiki/Wahlrecht)
 - [Daten](https://github.com/OKFNat/offenewahlen-at/wiki/Daten)
@@ -12,12 +12,12 @@ Hier findest du alle Ressourcen zum Projekt Offene Wahlen Österreich ([offenewa
 - [Narratives](https://github.com/OKFNat/offenewahlen-at/wiki/Narratives)
 - [Sonstiges](https://github.com/OKFNat/offenewahlen-at/wiki/Sonstiges)
 
-**Die anderen Repositorien:**
-* [API Spezifikation](https://github.com/OKFNat/offenewahlen-api-specification): Spezifikation eines offenen Datenstandard für eine restfull API. Sowohl Echtzeitdaten am Wahltag wie auch finale Ergebnisse.
-* [API](https://github.com/OKFNat/offenewahlen-api): Wahldaten-API für Echtzeit-Ergebnisse wie finale Ergebnisse.
+**GitHub Repositorien**
+* [#NRW17 Visualisierung](https://github.com/OKFNat/offenewahlen-nrw17): Daten-Visualisierungs der Ergebnisse der Nationalratswahl 2017. Hier ist ins besondere das eigene Wiki zu nennen.
+* [API Spezifikation](https://github.com/OKFNat/offenewahlen-api-specification): Spezifikation eines offenen Datenstandard für eine restfull-API.
+* [API](https://github.com/OKFNat/offenewahlen-api): Wahldaten-API.
+* [Data Converter](https://github.com/OKFNat/offenewahlen-gov2openconverter): Konvertiert alle möglichen Input-Daten in benötigte Formate.
 * [Wikidata](https://github.com/OKFNat/offenewahlen-wikidata): Materialien-Sammlung zu Wahlen und Wikidata.
-* [Visualisierung Nationalratswahl 2017](https://github.com/OKFNat/offenewahlen-nrw17): Visualisierungs-Projekt zur Nationalratswahl 2017
-* [Website](https://github.com/OKFNat/offenewahlen-website): offenewahlen.at Website
-
+* [Website](https://github.com/OKFNat/offenewahlen-website): offenewahlen.at Website.
 
 
