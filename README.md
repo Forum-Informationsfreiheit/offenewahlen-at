@@ -1,6 +1,12 @@
 # Offene Wahlen Österreich Projekt Repository
 
-Von hier aus findest du alle Ressourcen zum Projekt Offene Wahlen Österreich ([offenewahlen.at](https://offenewahlen.at)). Diese wurden auf zwei verschiedene Quellen aufgeteilt: Wiki-Seiten hier drinnen und eigene GitHub Repositories für die einzelnene Projekte. 
+Von hier aus findest du alle Ressourcen zum Projekt Offene Wahlen Österreich ([offenewahlen.at](https://offenewahlen.at)).
+
+**[http://offenewahlen.at/](http://offenewahlen.at/)**
+
+![Offene Wahlen](https://github.com/OKFNat/offenewahlen-at/blob/master/images/logos/ow-at.png)
+
+Diese wurden auf zwei verschiedene Quellen aufgeteilt: Wiki-Seiten hier drinnen und eigene GitHub Repositories für die einzelnene Projekte. 
 
 **OffeneWahlen-AT Wiki**
 - [Wahlen](https://github.com/OKFNat/offenewahlen-at/wiki/Wahlen)
