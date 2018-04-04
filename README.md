@@ -6,7 +6,7 @@ Von hier aus findest du alle Ressourcen zum Projekt Offene Wahlen Österreich ([
 
 ![Offene Wahlen](https://github.com/OKFNat/offenewahlen-at/blob/master/images/logos/ow-at.png)
 
-Diese wurden auf zwei verschiedene Quellen aufgeteilt: Wiki-Seiten hier drinnen und eigene GitHub Repositories für die einzelnene Projekte. 
+Diese wurden auf zwei verschiedene Quellen aufgeteilt: Wiki-Seiten hier drinnen und eigene GitHub Repositories für die einzelnene Projekte.
 
 **OffeneWahlen-AT Wiki**
 - [Wahlen](https://github.com/OKFNat/offenewahlen-at/wiki/Wahlen)
@@ -19,11 +19,8 @@ Diese wurden auf zwei verschiedene Quellen aufgeteilt: Wiki-Seiten hier drinnen 
 - [Sonstiges](https://github.com/OKFNat/offenewahlen-at/wiki/Sonstiges)
 
 **GitHub Repositorien**
-* [#NRW17 Visualisierung](https://github.com/OKFNat/offenewahlen-nrw17): Daten-Visualisierungs der Ergebnisse der Nationalratswahl 2017. Hier ist ins besondere das eigene Wiki zu nennen.
-* [API Spezifikation](https://github.com/OKFNat/offenewahlen-api-specification): Spezifikation eines offenen Datenstandard für eine restfull-API.
 * [API](https://github.com/OKFNat/offenewahlen-api): Wahldaten-API.
-* [Data Converter](https://github.com/OKFNat/offenewahlen-gov2openconverter): Konvertiert alle möglichen Input-Daten in benötigte Formate.
+* [API Spezifikation](https://github.com/OKFNat/offenewahlen-api-specification): Spezifikation eines offenen Datenstandard für eine restfull-API.
+* [Results Standardizer](https://github.com/OKFNat/offenewahlen_results-standardizer): Konvertiert alle möglichen Input-Daten in das benötigte JSON-Format.
 * [Wikidata](https://github.com/OKFNat/offenewahlen-wikidata): Materialien-Sammlung zu Wahlen und Wikidata.
 * [Website](https://github.com/OKFNat/offenewahlen-website): offenewahlen.at Website.
-
-
